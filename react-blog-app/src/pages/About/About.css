@@ -1,0 +1,22 @@
+
+.aboutContainer {
+    max-width: 800px;
+    margin:5px;
+    padding: 20px;
+    
+  }
+  
+  .aboutTitle {
+    font-size: 20px;
+   margin-bottom: 20px;
+    margin: 10px;
+    
+  }
+  
+  .aboutContent {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  
+  
