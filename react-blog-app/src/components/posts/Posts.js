@@ -29,8 +29,9 @@ export default function Posts() {
           title: "FOOD",
           date: "26-08-2023",
           description: "Food is one of the basic necessities of life. Food contains nutrients—substances essential for the growth, repair, and maintenance of body tissues and for the regulation of vital processes. ",
-          imageUrl: "https://media.post.rvohealth.io/wp-content/uploads/2020/08/reasons-to-eat-real-food-1200x628-facebook-1200x628.jpg",
+          imageUrl: "https://media.post.rvohealth.io/wp-content/uploads/2020/08/reasons-to-eat-real-food-1200x628-facebook-1200x628.jpg", 
         },
+        
         {
           title: "HEALTH",
           date: "18-07-2023",

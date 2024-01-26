@@ -7,7 +7,7 @@ const About = () => {
       <h2 className="aboutTitle">ABOUT US</h2>
       <hr />
       <div className="imageContainer">
-        <img className="aboutImage" src="blog.jpeg" alt="About Us" />
+          <img src={process.env.PUBLIC_URL + '/im1.jpeg'} alt="About Us" className="aboutImage" />
       </div>
       <div className="aboutTextContainer">
         <p className="aboutContent">

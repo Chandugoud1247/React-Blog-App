@@ -27,7 +27,7 @@ export default function Home() {
     <>
       <Header />
       <div className="home">
-        <h1>Blog Posts</h1>
+        {/* <h1>Blog-Posts</h1> */}
         <ul>
           {posts.map(post => (
             <li key={post.id}>
